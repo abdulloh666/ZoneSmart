@@ -1,0 +1,12 @@
+            <ul class="social">
+                <li class="icons icon-n-1"> <i class="fa-brands fa-twitter"></i></li>
+                <li class="icons icon-n-2"> <i class="fa-brands fa-facebook-f"></i></li>
+                <li class="icons icon-n-3"> <i class="fa-brands fa-linkedin-in"></i></li>
+                <li class="icons icon-n-4"> <i class="fa-solid fa-link"></i></li>
+                <li>
+                    <div class="shared">
+                        <p class="p-1"> Поделились:</p>
+                        <p style="font-family:'Roboto' ; font-weight:700;">439</p>
+                    </div>
+                </li>
+            </ul>
